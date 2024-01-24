@@ -1,5 +1,4 @@
 # Full-Ecommerce-Project(MERN Stack)
-![image](https://user-images.githubusercontent.com/93786534/180216947-b0945639-c588-440e-a67a-f1c70d852e09.png)
 
 ## Overview
 The ‘Online E-commerce Web application’ Services department strives to provide solutions to develop
